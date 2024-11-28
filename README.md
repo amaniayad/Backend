@@ -9,15 +9,14 @@
 ALL IN ONE is a web app designed for online clothing sales, providing a comprehensive platform that caters to both customers and administrators. This application offers an intuitive shopping experience for users to purchase clothing from the comfort of their homes, while also equipping administrators with tools for managing inventory and handling orders efficiently.
 
 <h3>Technologies Used : </h3>
-React JS - Node JS - SQLite
+React JS - Node JS - MYSQL
 
 <h3>Main Functions :</h3>
 
 1. User Authentication : Secure login and access for both customers and administrators.
 2. Product Management : Features for administrators to add, update, and remove products from the inventory.
-3. Shopping Experience : Customers can browse products, add items to their cart, and make purchases seamlessly.
-4. Secure Payment : Integration with online payment systems for safe and secure transactions.
-5. Order Management : Tools for both customers and administrators to track and manage orders.
+3. Shopping Experience : Customers can browse products, add items to their cart, and make online purchases seamlessly.
+4. Order Management : Tools for both customers and administrators to track and manage orders.
 
 <p align="center">
   <img width="347" alt="categories" src="https://github.com/user-attachments/assets/ba8ea931-025b-4727-b546-276d5443f9a9">
